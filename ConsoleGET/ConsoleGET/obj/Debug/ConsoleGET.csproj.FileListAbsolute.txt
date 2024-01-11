@@ -1,0 +1,7 @@
+C:\Users\dower\source\repos\ConsoleGET\ConsoleGET\bin\Debug\ConsoleGET.exe.config
+C:\Users\dower\source\repos\ConsoleGET\ConsoleGET\bin\Debug\ConsoleGET.exe
+C:\Users\dower\source\repos\ConsoleGET\ConsoleGET\bin\Debug\ConsoleGET.pdb
+C:\Users\dower\source\repos\ConsoleGET\ConsoleGET\obj\Debug\ConsoleGET.csproj.AssemblyReference.cache
+C:\Users\dower\source\repos\ConsoleGET\ConsoleGET\obj\Debug\ConsoleGET.csproj.CoreCompileInputs.cache
+C:\Users\dower\source\repos\ConsoleGET\ConsoleGET\obj\Debug\ConsoleGET.exe
+C:\Users\dower\source\repos\ConsoleGET\ConsoleGET\obj\Debug\ConsoleGET.pdb

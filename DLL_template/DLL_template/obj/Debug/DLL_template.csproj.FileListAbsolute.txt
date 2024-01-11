@@ -1,0 +1,6 @@
+C:\Users\dower\source\repos\DLL_template\DLL_template\bin\Debug\DLL_template.dll
+C:\Users\dower\source\repos\DLL_template\DLL_template\bin\Debug\DLL_template.pdb
+C:\Users\dower\source\repos\DLL_template\DLL_template\obj\Debug\DLL_template.csproj.AssemblyReference.cache
+C:\Users\dower\source\repos\DLL_template\DLL_template\obj\Debug\DLL_template.csproj.CoreCompileInputs.cache
+C:\Users\dower\source\repos\DLL_template\DLL_template\obj\Debug\DLL_template.dll
+C:\Users\dower\source\repos\DLL_template\DLL_template\obj\Debug\DLL_template.pdb
