@@ -1,5 +1,5 @@
 ﻿#Requires Autohotkey v2
-#Include <CLR>
+#Include lib\CLR.ahk
 c := "
 (
 using System;
