@@ -1,5 +1,22 @@
 ﻿#Requires Autohotkey v2
 #Include lib\CLR.ahk
+
+/*
+@class new APIClient(url)
+@method Get( 
+    string endpoint, 
+    TimeSpan? timeout = null, 
+    string path = null, 
+    bool convertHtmlToText = false, 
+    Dictionary<string, string> headers = null, 
+    bool returnAsStream = false
+    )
+@example  
+* asm := CLR_CompileCS(c, "System.dll | System.Net.Http.dll")
+* Requestobj := CLR_CreateObject(asm, "APIClient", url)
+* response := Requestobj.Get("", , true) ; true to strip html from response 
+*/
+
 c := "
 (
 using System;
